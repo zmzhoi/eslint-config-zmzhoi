@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-zmzhoi",
+  "version": "1.0.0-alpha.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "react"
+  ],
+  "author": "zmzhoi",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0"
+  }
+}
