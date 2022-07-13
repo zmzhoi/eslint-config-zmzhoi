@@ -1,6 +1,6 @@
 # eslint-config-zmzhoi
 
-> Eslint config for react project.
+> This package is a shareable eslint config for react project.
 
 ## Notice
 
