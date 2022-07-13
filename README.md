@@ -1,19 +1,19 @@
 # eslint-config-zmzhoi
 
-> This is a `Shareable Config`.
+> Eslint config for react project.
 
-This package's dependencies:
+## Notice
 
-```
-{
-  "eslint-config-airbnb": "^19",
-  "eslint-config-prettier": "^8.5.0"
-}
-```
+- Dependencies:
+  ```
+  {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0"
+  }
+  ```
+- The version of `eslint` that this package is using: `^7.32.0` || `^8.2.0`
 
-> Eslint version : `^7.32.0` || `^8.2.0`
-
-# Usage
+## Usage
 
 Installation:
 
@@ -22,8 +22,7 @@ Installation:
 ```
 
 Then create `.eslintrc.js` file with following contents in the root folder of your project:
-
-.eslintrc.js
+`.eslintrc.js`
 
 ```
 module.exports = {
