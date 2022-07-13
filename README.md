@@ -29,3 +29,7 @@ module.exports = {
   extends: ['zmzhoi'],
 };
 ```
+
+## LICENSE
+
+[MIT.](LICENSE)
