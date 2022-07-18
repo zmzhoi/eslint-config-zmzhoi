@@ -7,8 +7,8 @@
 - Dependencies:
   ```
   {
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^8.5.0"
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-prettier": "8.5.0"
   }
   ```
 - The version of `eslint` that this package is using: `^7.32.0` || `^8.2.0`
