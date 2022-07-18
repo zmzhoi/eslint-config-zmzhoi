@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zmzhoi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "This package is a shareable eslint config for react project.",
   "main": "index.js",
   "keywords": [
