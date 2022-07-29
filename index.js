@@ -9,6 +9,10 @@ module.exports = {
   },
   extends: ['airbnb', 'airbnb/hooks', 'prettier'],
   rules: {
+    'jsx-a11y/click-events-have-key-events': 0,
+    'jsx-a11y/no-static-element-interactions': 0,
+    'func-names': 0,
+    'react/require-default-props': 0,
     'no-unused-vars': 1,
     'no-console': 0,
     'react/react-in-jsx-scope': 0,
@@ -39,7 +43,7 @@ module.exports = {
         ],
         pathGroups: [
           {
-            pattern: '@**/**',
+            pattern: '~**/**',
             group: 'internal',
           },
         ],
